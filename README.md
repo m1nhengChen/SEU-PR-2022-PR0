@@ -11,9 +11,7 @@ We recommend installing pytorch and python packages using Anaconda.
 - deepface
 
 
-Here is a member list of our group:
-Minheng Chen      
-Xingzhe Zhang     
+Here is a member list of our group: Minheng Chen, Xingzhe Zhang     
 
 And we push all the code and resources we used to the Ali cloud.
 https://www.aliyundrive.com/s/sxvBjk23ffM 
